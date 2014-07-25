@@ -9,7 +9,8 @@
         <link rel="stylesheet" href="dist/animate.css">
         <link rel="stylesheet" href="dist/morphext.css">
     </head>
-    <body style="height:100%;background:#000000 url(http://static.squarespace.com/static/53ce73b9e4b0847eddfdd0f8/t/53cfb989e4b095a8ca25b195/1406122506143/learnx%20hero%20image.jpg?format=1500w)">
+    <body style="height:100%;background:#000000 url(http://static.squarespace.com/static/53ce73b9e4b0847eddfdd0f8/t/53cfb989e4b095a8ca25b195/1406122506143/learnx%20hero%20image.jpg?format=1500w);background-size:cover;
+    background-repeat: no-repeat;">
         <div style="text-align:center;margin: 150px 50px; font-size: 30px; line-height: 30px; font-family: Helvetica, Verdana, sans-serif; color: #ffffff;">
             Learn <b><span id="js-rotating">Coding, Baking, Basket Weaving </span></b>
             <br />
